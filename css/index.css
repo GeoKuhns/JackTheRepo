@@ -1,0 +1,64 @@
+nav {
+  height: 50px;
+  background-color: #7589bc;
+}
+
+.inline-block{
+  display: inline-block;
+  padding: 15px;
+}
+
+.left{
+  height: 600px;
+  float: left;
+  background-color: #212041;
+}
+
+.right{
+  height: 600px;
+  float:left;
+  background-color: #0a1829;
+  width: 80%;
+}
+
+.left-element{
+  margin: 5px;
+}
+
+.hero-section{
+  display: inline-block;
+  margin: 20px;
+  text-align: justify;
+}
+
+.card-section{
+  display: block;
+  margin: 20px;
+  text-align: center;
+}
+
+.card{
+  display: inline-block;
+  /*background-color: #C6C6C6;*/
+  border-radius: 5px;
+  height: 200px;
+  width: 125px;
+
+  /*margin: 15px;*/
+  margin-top: 30px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.card-pic{
+  height:50%;
+  width:90%;
+  padding: 5%;
+}
+
+.banner-pic{
+  height:225px;
+  width:400px;
+  margin: 10px;
+  float: left;
+}
